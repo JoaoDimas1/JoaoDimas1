@@ -3,7 +3,9 @@
 
 
 Statistics:
-![JoaoDimas1 GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoDimas1_icons=true&theme=radical)
+
+
+![Dimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoDimas1&show_icons=true&theme=radical)
 
 
 contacts:
